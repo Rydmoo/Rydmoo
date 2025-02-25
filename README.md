@@ -59,9 +59,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="next logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" height="30" alt="photoshop logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4a/Autodesk_3ds_Max_logo.png" height="30" alt="3ds max logo" />
+  <img src="https://images.seeklogo.com/logo-png/48/2/3ds-max-logo-png_seeklogo-482396.png" height="30" alt="3ds max logo" />
 </div>
 
 
