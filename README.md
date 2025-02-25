@@ -103,12 +103,5 @@
 </div>
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rydmoo/rydmoo/output/snake.svg" alt="Snake animation" />
-
-###
 
 
