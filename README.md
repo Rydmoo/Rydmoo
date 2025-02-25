@@ -107,7 +107,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/rydmoo/rydmoo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rydmoo/rydmoo/snake.svg" alt="Snake animation" />
 
 ###
 
